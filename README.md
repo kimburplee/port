@@ -1,2 +1,1 @@
-# portfolio
-Samples, exercises, etc
+Open source documentation contributions
