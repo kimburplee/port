@@ -1,1 +1,1 @@
-Open source documentation contributions
+Open source documentation contributions / Data Science training
